@@ -668,8 +668,8 @@ img {
 }
 
 .featured__img{
-  width: 180px;
-  margin: 1.5rem 0;
+  width: 190px;
+  margin: 2rem 0 1.25rem;
   transition: .3s;
 }
 
